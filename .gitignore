@@ -1,0 +1,4 @@
+/_whl/
+/rpmbuild/
+*.log
+*.sw[lmnopqrstuvwyz]
